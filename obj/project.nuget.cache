@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+BS6wCqOPg0XfCx9OEkzdp8ehSspuEgvoO9ObsY8V5N8Q9a+l39KRbvWEvpv/iopD5DIclpMeKQrW/1RtWBPA==",
+  "success": true,
+  "projectFilePath": "D:\\Other\\RND\\Docker\\web-application\\WebApplication2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.selise.biz/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
